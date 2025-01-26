@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![download](https://github.com/user-attachments/assets/740dbbe8-ffbb-490f-b7b5-d1153200b6ed)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY  
