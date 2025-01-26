@@ -22,9 +22,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vqHNpEb"  ><a href="//imgur.com/a/vqHNpEb">Web 102 - Prework</a></blockquote>
-
 ![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/9e9a3a1a-119e-40dd-9b78-fd1e278c65a6)
 
 
