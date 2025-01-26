@@ -27,10 +27,6 @@ Here's a walkthrough of implemented features:
 
 
 
-https://github.com/user-attachments/assets/52bce876-0375-4a5e-9c93-54cb53770ff1
-
-
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
 <!-- Recommended tools:
