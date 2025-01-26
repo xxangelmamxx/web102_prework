@@ -24,8 +24,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 ![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/234b7846-0a04-452b-b43d-32d9cda80701)
 
-
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
 <!-- Recommended tools:
