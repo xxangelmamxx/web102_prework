@@ -23,8 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vqHNpEb"  ><a href="//imgur.com/a/vqHNpEb">Web 102 - Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vqHNpEb"  ><a href="//imgur.com/a/vqHNpEb">Web 102 - Prework</a></blockquote>
 
+![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/9e9a3a1a-119e-40dd-9b78-fd1e278c65a6)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
