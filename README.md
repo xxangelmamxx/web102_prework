@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/9e9a3a1a-119e-40dd-9b78-fd1e278c65a6)
+![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/234b7846-0a04-452b-b43d-32d9cda80701)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
