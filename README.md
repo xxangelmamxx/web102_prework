@@ -25,8 +25,14 @@ Here's a walkthrough of implemented features:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/vqHNpEb"  ><a href="//imgur.com/a/vqHNpEb">Web 102 - Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+
+
+https://github.com/user-attachments/assets/52bce876-0375-4a5e-9c93-54cb53770ff1
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +40,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not really any challenges with the coding persay but the passwords on the files took me a second to understand.
 
 ## License
 
