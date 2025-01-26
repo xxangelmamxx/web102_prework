@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/234b7846-0a04-452b-b43d-32d9cda80701)
+![Web 102 - Prework - Imgur](https://github.com/user-attachments/assets/a1239504-9249-42ee-8d62-2a528c632943)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
